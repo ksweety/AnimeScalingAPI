@@ -52,7 +52,7 @@
         <v-list-item
           v-for="n in 5"
           :key="n"
-          :title="`Item ${ n }`"
+          :title="`GOKU ${ n }`"
           link
         >
         </v-list-item>
