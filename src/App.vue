@@ -104,7 +104,12 @@
         variant="solo"
       ></v-text-field>
     </v-footer>
-  </v-app>
+  </v-app> 
+  <router-view />  
+  <nav>
+   <router-link to="/">Home</router-link> |
+   <router-link to="/about">About</router-link>
+</nav>
 </template>
 
 <style>
