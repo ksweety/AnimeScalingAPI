@@ -18,7 +18,7 @@
           color="grey-darken-2"
         >
           <v-tab
-            v-for="link in links"
+            v-for="link in links" 
             :key="link"
           >
             {{ link }}
