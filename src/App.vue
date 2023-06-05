@@ -27,7 +27,7 @@
 
           <v-tab to='/' variant="text">Home</v-tab>
           <v-tab to="/about" variant="text">About</v-tab> 
-          <v-tab to="/character"xxs variant="text">Characters</v-tab> 
+          <v-tab to="/character" variant="text">Characters</v-tab> 
           <v-tab to="/scaling" variant="text">Scaling</v-tab>
           
 
