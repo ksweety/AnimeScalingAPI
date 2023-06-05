@@ -1,7 +1,7 @@
 <script setup >
 
     async function doAThing() {
-      const result = await fetch("https://anime-facts-rest-api.herokuapp.com/api/v1") 
+      const result = await fetch("http://api.anidb.net:9001/httpapi?request=randomrecommendation") 
       console.log(result)
     }
 

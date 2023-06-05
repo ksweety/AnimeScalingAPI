@@ -1,5 +1,13 @@
+<script>
+
+</script>
 <template>
  <h1>
-  WELCOME TO ANIME SCALING!!!
+  WELCOME TO ANIME SCALING!!! 
  </h1>
-   </template>
+
+
+
+<v-text-field label="Ask your anime question"></v-text-field> 
+<v-btn type="submit">Submit</v-btn> 
+</template>
