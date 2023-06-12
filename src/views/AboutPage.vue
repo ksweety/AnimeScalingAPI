@@ -1,5 +1,5 @@
 <template>
-<h1>Anime Scaling was made so that their would be no more questions on which anime character is stronger than the other. With this you will know for certain which anime character is stronger!!!!</h1> 
+<h1>Waifu generator was developed so that every anime lover will be generated with a link that they can use to see all their favorite waifus</h1> 
 <hr>
   </template>
   
